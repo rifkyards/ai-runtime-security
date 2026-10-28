@@ -1,2 +1,7 @@
-kubectl apply -f airs-demo-all.yaml
-bash test.sh
+```
+kubectl apply -f k8s/airs-demo-all.yaml
+```
+
+```
+bash k8s/test.sh
+```
